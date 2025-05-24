@@ -1,6 +1,6 @@
 # RobotCrackme
 
-RobotCrackme is a solid mid-level crackme made in C, aimed at reversers who already grasped the basic concepts of reverse engineering like unpacking and anti-debugging.
+RobotCrackme is a solid mid-level crackme made in C, aimed at reversers who have already grasped the basic concepts of reverse engineering like unpacking and anti-debugging.
 
 # The storyline
 
@@ -16,5 +16,5 @@ Luckily, it's very easy to unpack :)
 
 # RobotCrackme on other platforms
 
-Explore RobotCrackme on [crackmes.one](https://crackmes.one/crackme/67f003b88274f31a64b93762) and [crackmy.app](https://crackmy.app/crackmes/robot-crackme-7502).
+Explore RobotCrackme and its solutions on [crackmes.one](https://crackmes.one/crackme/67f003b88274f31a64b93762) and [crackmy.app](https://crackmy.app/crackmes/robot-crackme-7502).
 
