@@ -1,4 +1,5 @@
 # RobotCrackme
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 RobotCrackme is a solid mid-level crackme made in C, aimed at reversers who have already grasped the basic concepts of reverse engineering like unpacking and anti-debugging.
 
